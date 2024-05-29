@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="blue">#102C57</color>
+    <color name="bounding_box_color">#234567</color>
+    <color name="green">#014946</color>
+    <color name="red">#c21d03</color>
+    <color name="whiteBounding">#f1f1f1</color>
+</resources>
